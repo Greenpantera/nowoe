@@ -1,0 +1,15 @@
+C:\Users\lonel\Desktop\t\fgh\bin\Debug\net6.0\fgh.exe
+C:\Users\lonel\Desktop\t\fgh\bin\Debug\net6.0\fgh.deps.json
+C:\Users\lonel\Desktop\t\fgh\bin\Debug\net6.0\fgh.runtimeconfig.json
+C:\Users\lonel\Desktop\t\fgh\bin\Debug\net6.0\fgh.dll
+C:\Users\lonel\Desktop\t\fgh\bin\Debug\net6.0\fgh.pdb
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.csproj.AssemblyReference.cache
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.AssemblyInfoInputs.cache
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.AssemblyInfo.cs
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.csproj.CoreCompileInputs.cache
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.dll
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\refint\fgh.dll
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.pdb
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\fgh.genruntimeconfig.cache
+C:\Users\lonel\Desktop\t\fgh\obj\Debug\net6.0\ref\fgh.dll
